@@ -11,6 +11,7 @@
     <description>A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC</description>
     <url>https://github.com/spring-petclinic/</url>
     <!-- i am adding this lines for testing-->
+    <!-- i am adding this extra lines for second testing-->
 
     <properties>
 
